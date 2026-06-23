@@ -654,9 +654,15 @@ function buildQuiz() {
 
   // Shuffle questions
   shuffledQ = shuffle(pool).map(q => {
-    // Shuffle options too
-    const shuffledOpts = shuffle(q.options);
-    return { ...q, options: shuffledOpts };
+    // Không xào trộn đáp án nếu có các từ khóa chỉ định như "Cả A và B", "đều đúng", "tất cả"...
+    const regex = /\b(cả|đều đúng|đều sai|tất cả|a và b|b và c|a, b|a,b|đáp án trên)\b/i;
+    const shouldNotShuffle = q.options.some(opt => regex.test(opt.text.toLowerCase()));
+
+    let finalOpts = q.options;
+    if (!shouldNotShuffle) {
+      finalOpts = shuffle(q.options);
+    }
+    return { ...q, options: finalOpts };
   });
 
   renderQuiz();
