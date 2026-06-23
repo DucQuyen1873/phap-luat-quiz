@@ -681,12 +681,16 @@ function renderQuiz() {
     card.className = 'question-card';
     card.id = `qcard-${idx}`;
 
-    const optionsHTML = q.options.map(opt => `
+    const FIXED_LABELS = ['A', 'B', 'C', 'D', 'E', 'F'];
+    const optionsHTML = q.options.map((opt, i) => {
+      const displayLabel = FIXED_LABELS[i] || opt.label;
+      return `
       <button class="option-btn" id="opt-${idx}-${opt.label}" onclick="selectAnswer(${idx}, '${opt.label}')">
-        <span class="label-dot">${opt.label}</span>
+        <span class="label-dot">${displayLabel}</span>
         <span>${opt.text}</span>
       </button>
-    `).join('');
+    `;
+    }).join('');
 
     card.innerHTML = `
       <div class="q-num">Câu ${idx + 1} / ${shuffledQ.length}</div>
