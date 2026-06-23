@@ -48,7 +48,7 @@
 
   .logo-area {
     text-align: center;
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
   }
 
   .logo-icon {
@@ -73,19 +73,51 @@
     font-size: 1.05rem;
   }
 
+  /* SUBJECT CARD */
+  .subject-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 24px;
+    padding: 2.5rem;
+    max-width: 800px;
+    width: 100%;
+    margin-bottom: 1.5rem;
+    transition: transform 0.3s;
+  }
+  .subject-card:hover {
+    border-color: rgba(108,99,255,0.5);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+  }
+
+  .subject-header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  .subject-header h2 {
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: var(--text);
+  }
+  .stats-inline {
+    font-size: 0.95rem;
+    color: var(--text-muted);
+    margin-top: 0.5rem;
+    font-weight: 500;
+  }
+  .stats-inline span { color: var(--accent2); font-weight: 700; }
+
   .mode-cards {
     display: flex;
     gap: 1.5rem;
     flex-wrap: wrap;
     justify-content: center;
-    margin-bottom: 2rem;
   }
 
   .mode-card {
-    background: var(--surface);
+    background: var(--surface2);
     border: 2px solid var(--border);
     border-radius: 20px;
-    padding: 2.5rem 2rem;
+    padding: 2rem 1.5rem;
     width: 280px;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -105,31 +137,67 @@
   .mode-card.ontap::before { background: radial-gradient(circle at 50% 0%, rgba(34,197,94,0.15), transparent 70%); }
   .mode-card.thi::before   { background: radial-gradient(circle at 50% 0%, rgba(59,130,246,0.15), transparent 70%); }
 
-  .mode-card:hover { transform: translateY(-6px); }
+  .mode-card:hover { transform: translateY(-4px); }
   .mode-card:hover::before { opacity: 1; }
-  .mode-card.ontap:hover { border-color: var(--correct); box-shadow: 0 12px 40px rgba(34,197,94,0.2); }
-  .mode-card.thi:hover   { border-color: var(--selected); box-shadow: 0 12px 40px rgba(59,130,246,0.2); }
+  .mode-card.ontap:hover { border-color: var(--correct); }
+  .mode-card.thi:hover   { border-color: var(--selected); }
 
-  .mode-icon { font-size: 3rem; margin-bottom: 1rem; display: block; }
-  .mode-card h2 { font-size: 1.4rem; font-weight: 700; margin-bottom: 0.8rem; }
+  .mode-icon { font-size: 2.5rem; margin-bottom: 1rem; display: block; }
+  .mode-card h2 { font-size: 1.3rem; font-weight: 700; margin-bottom: 0.6rem; }
   .mode-card.ontap h2 { color: var(--correct); }
   .mode-card.thi h2    { color: var(--selected); }
-  .mode-card p { color: var(--text-muted); font-size: 0.9rem; line-height: 1.5; }
+  .mode-card p { color: var(--text-muted); font-size: 0.85rem; line-height: 1.5; }
 
-  .stats-bar {
+  /* SELECT BAI MODAL */
+  #select-bai-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.7);
+    backdrop-filter: blur(4px);
+    z-index: 200;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+  }
+  #select-bai-overlay.show { display: flex; }
+  .select-box {
     background: var(--surface);
     border: 1px solid var(--border);
-    border-radius: var(--radius);
-    padding: 1rem 2rem;
-    display: flex;
-    gap: 2rem;
-    flex-wrap: wrap;
-    justify-content: center;
+    border-radius: 20px;
+    padding: 2rem;
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+    animation: pop-in 0.3s cubic-bezier(0.34,1.56,0.64,1);
   }
-
-  .stat-item { text-align: center; }
-  .stat-num { font-size: 1.5rem; font-weight: 700; color: var(--accent2); }
-  .stat-lbl { font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
+  .bai-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-top: 1.5rem;
+    max-height: 50vh;
+    overflow-y: auto;
+  }
+  .bai-btn {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 0.8rem 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 0.95rem;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+    transition: all 0.2s;
+  }
+  .bai-btn:hover {
+    border-color: var(--correct);
+    color: var(--correct);
+    background: rgba(34,197,94,0.1);
+  }
+  /* Scrollbar override for bai-list */
+  .bai-list::-webkit-scrollbar { width: 4px; }
 
   /* ===== SCREEN: QUIZ ===== */
   #quiz-screen { display: none; min-height: 100vh; }
@@ -414,38 +482,35 @@
 <!-- HOME SCREEN -->
 <div id="home-screen">
   <div class="logo-area">
-    <span class="logo-icon">⚖️</span>
-    <h1>Pháp Luật Đại Cương</h1>
-    <p>Hệ thống ôn tập & thi thử trắc nghiệm</p>
+    <span class="logo-icon">🎯</span>
+    <h1>Hệ thống Trắc Nghiệm</h1>
+    <p>Chọn môn học để bắt đầu ôn luyện</p>
   </div>
 
-  <div class="mode-cards">
-    <div class="mode-card ontap" onclick="startMode('ontap')">
-      <span class="mode-icon">📖</span>
-      <h2>Ôn Tập</h2>
-      <p>Câu hỏi được xào trộn ngẫu nhiên. Sau khi chọn sẽ <strong>hiển thị ngay</strong> đáp án đúng/sai bằng màu sắc.</p>
+  <!-- Môn học 1: Pháp luật đại cương -->
+  <div class="subject-card">
+    <div class="subject-header">
+      <h2>⚖️ Pháp Luật Đại Cương</h2>
+      <div class="stats-inline">
+        <span>142</span> Câu hỏi • <span>6</span> Bộ đề
+      </div>
     </div>
-    <div class="mode-card thi" onclick="startMode('thi')">
-      <span class="mode-icon">📝</span>
-      <h2>Thi Thử</h2>
-      <p>Làm toàn bộ bài, <strong>nộp bài</strong> xong mới xem kết quả và đáp án đúng/sai.</p>
-    </div>
-  </div>
-
-  <div class="stats-bar">
-    <div class="stat-item">
-      <div class="stat-num">142</div>
-      <div class="stat-lbl">Câu hỏi</div>
-    </div>
-    <div class="stat-item">
-      <div class="stat-num">6</div>
-      <div class="stat-lbl">Bộ đề</div>
-    </div>
-    <div class="stat-item">
-      <div class="stat-num">4</div>
-      <div class="stat-lbl">Đáp án / câu</div>
+    
+    <div class="mode-cards">
+      <div class="mode-card ontap" onclick="showOntapModal()">
+        <span class="mode-icon">📖</span>
+        <h2>Ôn Tập</h2>
+        <p>Chọn từng bài để ôn. <strong>Hiển thị ngay</strong> đáp án đúng/sai.</p>
+      </div>
+      <div class="mode-card thi" onclick="startMode('thi', 'all')">
+        <span class="mode-icon">📝</span>
+        <h2>Thi Thử</h2>
+        <p>Làm toàn bộ bài, <strong>nộp bài</strong> xong mới xem kết quả.</p>
+      </div>
     </div>
   </div>
+  
+  <!-- Chỗ này có thể copy .subject-card để thêm môn học khác sau này -->
 </div>
 
 <!-- QUIZ SCREEN -->
@@ -468,6 +533,17 @@
   </div>
 </div>
 
+<!-- SELECT BÀI OVERLAY -->
+<div id="select-bai-overlay">
+  <div class="select-box">
+    <h2>Chọn bài ôn tập</h2>
+    <div class="bai-list" id="bai-list">
+      <!-- Generated by JS -->
+    </div>
+    <button class="btn-secondary" style="margin-top: 1.5rem" onclick="closeOntapModal()">Đóng</button>
+  </div>
+</div>
+
 <!-- RESULT OVERLAY -->
 <div id="result-overlay">
   <div class="result-box">
@@ -487,6 +563,7 @@
 // Will be loaded from questions.json file via fetch
 let QUESTIONS = [];
 let currentMode = '';
+let targetBai = 'all';
 let shuffledQ = [];
 let answers = {}; // {qIndex: selectedLabel}
 let revealed = {}; // for ontap mode
@@ -501,6 +578,35 @@ async function loadQuestions() {
   }
 }
 
+function showOntapModal() {
+  const listEl = document.getElementById('bai-list');
+  listEl.innerHTML = '';
+  
+  // Extract unique bai from QUESTIONS
+  const bais = [...new Set(QUESTIONS.map(q => q.bai))];
+  
+  bais.forEach(b => {
+    const btn = document.createElement('button');
+    btn.className = 'bai-btn';
+    btn.textContent = b;
+    btn.onclick = () => { closeOntapModal(); startMode('ontap', b); };
+    listEl.appendChild(btn);
+  });
+
+  const btnAll = document.createElement('button');
+  btnAll.className = 'bai-btn';
+  btnAll.textContent = `Tổng hợp tất cả (${QUESTIONS.length} câu)`;
+  btnAll.style.borderColor = 'var(--accent)';
+  btnAll.onclick = () => { closeOntapModal(); startMode('ontap', 'all'); };
+  listEl.appendChild(btnAll);
+
+  document.getElementById('select-bai-overlay').classList.add('show');
+}
+
+function closeOntapModal() {
+  document.getElementById('select-bai-overlay').classList.remove('show');
+}
+
 // ===== UTILS =====
 function shuffle(arr) {
   const a = [...arr];
@@ -511,22 +617,26 @@ function shuffle(arr) {
   return a;
 }
 
-function startMode(mode) {
+function startMode(mode, baiFilter) {
   currentMode = mode;
+  targetBai = baiFilter || 'all';
   document.getElementById('home-screen').style.display = 'none';
   document.getElementById('quiz-screen').style.display = 'block';
 
   const badge = document.getElementById('badge-mode');
   const title = document.getElementById('quiz-title-text');
+  
+  let subtitle = targetBai === 'all' ? 'Tất cả bài' : targetBai;
+
   if (mode === 'ontap') {
     badge.textContent = 'ÔN TẬP';
     badge.className = 'badge-mode ontap';
-    title.textContent = 'Chế độ Ôn Tập';
+    title.textContent = `Ôn Tập - ${subtitle}`;
     document.getElementById('btn-submit').style.display = 'none';
   } else {
     badge.textContent = 'THI THỬ';
     badge.className = 'badge-mode thi';
-    title.textContent = 'Chế độ Thi Thử';
+    title.textContent = `Thi Thử - Tất cả`;
     document.getElementById('btn-submit').style.display = '';
   }
 
@@ -537,8 +647,13 @@ function buildQuiz() {
   answers = {};
   revealed = {};
 
+  let pool = QUESTIONS;
+  if (targetBai !== 'all') {
+    pool = QUESTIONS.filter(q => q.bai === targetBai);
+  }
+
   // Shuffle questions
-  shuffledQ = shuffle(QUESTIONS).map(q => {
+  shuffledQ = shuffle(pool).map(q => {
     // Shuffle options too
     const shuffledOpts = shuffle(q.options);
     return { ...q, options: shuffledOpts };
