@@ -2298,5 +2298,1255 @@
     ],
     "correct": "A",
     "note": null
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 1: Công dân nước Cộng hòa xã hội chủ nghĩa Việt Nam là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Người có quốc tịch Việt Nam và người không có quốc tịch Việt Nam nhưng được phép cư trú vô thời hạn tại Việt Nam"
+      },
+      {
+        "label": "B",
+        "text": "Người cư trú vĩnh viễn tại Việt Nam"
+      },
+      {
+        "label": "C",
+        "text": "Người được phép cư trú tại Việt Nam"
+      },
+      {
+        "label": "D",
+        "text": "Người có quốc tịch Việt Nam"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 92
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 2: Chủ thể của quan hệ pháp luật là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cá nhân hoặc pháp nhân có năng lực trách nhiệm pháp lý"
+      },
+      {
+        "label": "B",
+        "text": "Cá nhân hoặc tổ chức có năng lực trách nhiệm pháp lý"
+      },
+      {
+        "label": "C",
+        "text": "Cá nhân hoặc pháp nhân có năng lực chủ thể"
+      },
+      {
+        "label": "D",
+        "text": "Cá nhân hoặc tổ chức có năng lực chủ thể"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 93
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 3: Các hình thức của giao dịch dân sự bao gồm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bằng giấy và bằng điện tử"
+      },
+      {
+        "label": "B",
+        "text": "Bằng lời nói, bằng văn bản và bằng công chứng chứng thực"
+      },
+      {
+        "label": "C",
+        "text": "Bằng ngôn ngữ nói và bằng ngôn ngữ viết"
+      },
+      {
+        "label": "D",
+        "text": "Bằng lời nói, bằng hành vi cụ thể và bằng văn bản"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 94
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 4: Nhận định nào sau đây là SAI.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Vi phạm pháp luật là cơ sở thực tế làm phát sinh trách nhiệm pháp lý."
+      },
+      {
+        "label": "B",
+        "text": "Chủ thể thực hiện hành vi vi phạm pháp luật phải có năng lực trách nhiệm pháp lý."
+      },
+      {
+        "label": "C",
+        "text": "Mặt chủ quan của vi phạm pháp luật bao gồm lỗi, động cơ và mục đích."
+      },
+      {
+        "label": "D",
+        "text": "Vi phạm pháp luật luôn là hành vi có lỗi cố ý."
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 95
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 5: Thời hiệu khởi kiện yêu cầu bồi thường thiệt hại trong pháp luật dân sự là bao lâu?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Vô thời hạn, kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền, lợi ích hợp pháp của mình bị xâm phạm."
+      },
+      {
+        "label": "B",
+        "text": "02 năm, kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền, lợi ích hợp pháp của mình bị xâm phạm."
+      },
+      {
+        "label": "C",
+        "text": "03 năm"
+      },
+      {
+        "label": "D",
+        "text": "03 năm, kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền, lợi ích hợp pháp của mình bị xâm phạm."
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 96
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 6: Hành vi nào sau đây là tuân thủ pháp luật?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Công dân Việt Nam được quyền tham gia bầu cử đại biểu Quốc hội."
+      },
+      {
+        "label": "B",
+        "text": "Người nộp thuế thực hiện thủ tục quyết toán thuế thu nhập cá nhân hàng năm."
+      },
+      {
+        "label": "C",
+        "text": "Ủy ban nhân cân quận Bình Thạnh cấp căn cước công dân cho người dân."
+      },
+      {
+        "label": "D",
+        "text": "Người tham gia giao thông đường bộ không lái xe vào khu vực đường cấm lưu thông."
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 97
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 7: Bản Hiến pháp đang có hiệu lực hiện nay là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hiến pháp năm 2016"
+      },
+      {
+        "label": "B",
+        "text": "Hiến pháp năm 2017"
+      },
+      {
+        "label": "C",
+        "text": "Hiến pháp năm 2023"
+      },
+      {
+        "label": "D",
+        "text": "Hiến pháp năm 2013"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 98
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 8: Cơ quan quyền lực Nhà nước bao gồm?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quốc Hội và Chủ tịch nước"
+      },
+      {
+        "label": "B",
+        "text": "Quốc Hội và Chính Phủ"
+      },
+      {
+        "label": "C",
+        "text": "Chính Phủ, Tòa án nhân dân và Viện Kiểm sát nhân dân"
+      },
+      {
+        "label": "D",
+        "text": "Quốc Hội và Hội đồng nhân dân các cấp"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 99
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 9: Khi giải thích Hiến pháp, Ủy ban thường vụ Quốc Hội cần phải ban hành văn bản quy phạm pháp luật bằng loại văn bản quy phạm pháp luật nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pháp lệnh"
+      },
+      {
+        "label": "B",
+        "text": "Lệnh"
+      },
+      {
+        "label": "C",
+        "text": "Quyết định"
+      },
+      {
+        "label": "D",
+        "text": "Nghị quyết"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 100
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 10: Thi hành pháp luật là gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là một hình thức của thực hiện pháp luật, trong đó chủ thể áp dụng pháp luật chỉ có thể là cơ quan nhà nước, cán bộ, công chức nhà nước có thẩm quyền nhằm thực hiện các chức năng, nhiệm vụ, quyền hạn do pháp luật quy định."
+      },
+      {
+        "label": "B",
+        "text": "Là một hình thức của thực hiện pháp luật, trong đó các chủ thể thực hiện pháp luật không thực hiện những hành vi xử sự mà pháp luật cấm."
+      },
+      {
+        "label": "C",
+        "text": "Là một hình thức của thực hiện pháp luật, trong đó các chủ thể thực hiện pháp luật thực hiện các quyền của mình do pháp luật quy định."
+      },
+      {
+        "label": "D",
+        "text": "Là một hình thức của thực hiện pháp luật, trong đó các chủ thể thực hiện pháp luật chủ động thực hiện các nghĩa vụ mà pháp luật quy định."
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 101
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 11: Sự kiện pháp lý là gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là những trường hợp đã xảy ra trước đó và được áp dụng tương tự sau đó."
+      },
+      {
+        "label": "B",
+        "text": "Là những sự kiện bị xét xử bởi Tòa án."
+      },
+      {
+        "label": "C",
+        "text": "Là những sự kiện vi phạm vào điều cấm của pháp luật."
+      },
+      {
+        "label": "D",
+        "text": "Là những sự kiện xảy ra trong thực tế và liên quan đến quy định pháp luật."
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 102
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 12: Trong các yếu tố cấu thành của vi phạm pháp luật, lỗi là phần bắt buộc phải có trong yếu tố nào sau đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chủ thể"
+      },
+      {
+        "label": "B",
+        "text": "Mặt khách quan"
+      },
+      {
+        "label": "C",
+        "text": "Khách thể"
+      },
+      {
+        "label": "D",
+        "text": "Mặt chủ quan"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 103
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 13: Nhận định nào sau đây là đúng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nội dung của quan hệ pháp luật là quyền và lợi ích hợp pháp mà các bên hướng tới khi tham gia vào quan hệ pháp luật."
+      },
+      {
+        "label": "B",
+        "text": "Năng lực hành vi của tổ chức phụ thuộc vào phạm vi kinh doanh của tổ chức đó."
+      },
+      {
+        "label": "C",
+        "text": "Khách thể của quan hệ pháp luật là những điều kiện khách quan của chủ thể khi tham gia vào quan hệ pháp luật."
+      },
+      {
+        "label": "D",
+        "text": "Năng lực pháp luật của cá nhân chỉ chấm dứt khi cá nhân chết."
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 104
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 14: Hiến pháp do cơ quan nhà nước nào sau đây ban hành?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hội đồng nhân dân"
+      },
+      {
+        "label": "B",
+        "text": "Chính Phủ"
+      },
+      {
+        "label": "C",
+        "text": "Chủ tịch nước"
+      },
+      {
+        "label": "D",
+        "text": "Quốc Hội"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 105
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 15: Trong pháp luật dân sự, di sản bao gồm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tài sản do người để lại di sản đứng tên"
+      },
+      {
+        "label": "B",
+        "text": "Tài sản của người để lại di sản"
+      },
+      {
+        "label": "C",
+        "text": "Tài sản riêng của người chết"
+      },
+      {
+        "label": "D",
+        "text": "Tài sản riêng của người chết và phần tài sản của người chết trong tài sản chung với người khác"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 106
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 16: Bản chất của nhà nước bao gồm?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tính tối thượng của nhà nước"
+      },
+      {
+        "label": "B",
+        "text": "Tính quyền lực của nhà nước"
+      },
+      {
+        "label": "C",
+        "text": "Tính xã hội của nhà nước"
+      },
+      {
+        "label": "D",
+        "text": "Tính giai cấp và tính xã hội của nhà nước"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 107
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 17: Loại văn bản nào sau đây là văn bản pháp luật?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hợp đồng"
+      },
+      {
+        "label": "B",
+        "text": "Bản án của Tòa án"
+      },
+      {
+        "label": "C",
+        "text": "Phán quyết trọng tài"
+      },
+      {
+        "label": "D",
+        "text": "Hiến pháp"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 108
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 18: Chủ tịch nước là ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Người đứng đầu cơ quan hành pháp"
+      },
+      {
+        "label": "B",
+        "text": "Người đứng đầu cơ quan lập pháp"
+      },
+      {
+        "label": "C",
+        "text": "Người đứng đầu cơ quan ngoại giao cao nhất của nước CHXHCN Việt Nam"
+      },
+      {
+        "label": "D",
+        "text": "Người đứng đầu Nhà nước, thay mặt nước CHXHCN Việt Nam về đối nội và đối ngoại"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 109
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 19: Thời hiệu để người thừa kế yêu cầu chia di sản là bao lâu?",
+    "options": [
+      {
+        "label": "A",
+        "text": "10 năm đối với động sản, kể từ điểm có tranh chấp xả ra"
+      },
+      {
+        "label": "B",
+        "text": "30 năm đối với bất động sản, 10 năm đối với động sản, kể từ thời điểm công chứng viên chấp thuận trên Giấy chứng nhận hàng thừa kế."
+      },
+      {
+        "label": "C",
+        "text": "30 năm đối với bất động sản, 10 năm đối với động sản"
+      },
+      {
+        "label": "D",
+        "text": "30 năm đối với bất động sản, 10 năm đối với động sản, kể từ thời điểm mở thừa kế."
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 110
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 20: Trẻ em sinh ra ngoài lãnh thổ Việt Nam mà khi sinh ra có cha mẹ đều là công dân Việt Nam thì sẽ mang quốc tịch của quốc gia nào sau đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Trẻ em đó sẽ không có quốc tịch"
+      },
+      {
+        "label": "B",
+        "text": "Nơi trẻ em đó được sinh ra"
+      },
+      {
+        "label": "C",
+        "text": "Cha mẹ được quyết định quốc tịch Việt Nam hoặc quốc tịch tại nơi trẻ em đó sinh ra"
+      },
+      {
+        "label": "D",
+        "text": "Việt Nam"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 111
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 21: Lệnh của Chủ tịch nước được ban hành để quy định vấn đề gì sau đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác bảo đảm quốc phòng, an ninh quốc gia."
+      },
+      {
+        "label": "B",
+        "text": "Đặc xá tội phạm đặc biệt nghiêm trọng."
+      },
+      {
+        "label": "C",
+        "text": "Ban hành tình trạng có hiệu lực của Hiến Pháp."
+      },
+      {
+        "label": "D",
+        "text": "Công bố tình trạng khẩn cấp trong cả nước hoặc ở từng địa phương trong trường hợp Ủy ban thường vụ Quốc hội không thể họp được."
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 112
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 22: Các yếu tố cấu thành vi phạm pháp luật bao gồm các yếu tố nào sau đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chủ thể, Mặt khách quan, Mặt chủ quan"
+      },
+      {
+        "label": "B",
+        "text": "Chủ thể, Khách thể, Nội dung"
+      },
+      {
+        "label": "C",
+        "text": "Giả định, Quy định, Chế tài"
+      },
+      {
+        "label": "D",
+        "text": "Chủ thể, Mặt khách quan, Mặt chủ quan và Khách thể"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 113
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 23: Người thành niên là gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là người có năng lực pháp luật"
+      },
+      {
+        "label": "B",
+        "text": "Là người có năng lực hành vi dân sự"
+      },
+      {
+        "label": "C",
+        "text": "Là người có quốc tịch Việt Nam"
+      },
+      {
+        "label": "D",
+        "text": "Là người từ đủ 18 tuổi trở lên"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 114
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 24: Nghĩa vụ của một nhà nước pháp quyền là gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Duy trì nguyên tắc một đảng lãnh đạo"
+      },
+      {
+        "label": "B",
+        "text": "Đảm bảo pháp luật luôn phù hợp với đời sống con người"
+      },
+      {
+        "label": "C",
+        "text": "Quản lý con người bằng các cương lĩnh của Đảng lãnh đạo"
+      },
+      {
+        "label": "D",
+        "text": "Tôn trọng giá trị cao nhất của con người"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 115
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 25: Cấu trúc của một quy phạm pháp luật bao gồm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giả định, Quy định, Mặt khách quan"
+      },
+      {
+        "label": "B",
+        "text": "Chủ thể, Khách thể, Nội dung"
+      },
+      {
+        "label": "C",
+        "text": "Chủ thể, Khách thể, Mặt khách quan, Mặt chủ quan"
+      },
+      {
+        "label": "D",
+        "text": "Giả định, Quy định, Chế tài"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 116
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 26: Yếu tố lỗi trong vi phạm pháp luật bao gồm những dạng nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lỗi vô ý và Lỗi không hành động"
+      },
+      {
+        "label": "B",
+        "text": "Lỗi hành động và Lỗi không hành động"
+      },
+      {
+        "label": "C",
+        "text": "Lỗi cố ý và Lỗi hành động"
+      },
+      {
+        "label": "D",
+        "text": "Lỗi cố ý và Lỗi vô ý"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 117
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 27: Các hình phạt trong Bộ luật hình sự Việt Nam bao gồm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cảnh cáo, Phạt tiền, Phạt tù và Tử hình"
+      },
+      {
+        "label": "B",
+        "text": "Hình phạt tù và Hình phạt tiền"
+      },
+      {
+        "label": "C",
+        "text": "Các hình phạt tù có thời hạn và Các hình phạt tù vô thời hạn"
+      },
+      {
+        "label": "D",
+        "text": "Các hình phạt chính và Các hình phạt bổ sung"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 118
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 28: Nhận định nào sau đây là đúng.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chủ tịch nước có nhiệm kỳ 10 năm."
+      },
+      {
+        "label": "B",
+        "text": "Chủ tịch nước là người đứng đầu Quốc hội."
+      },
+      {
+        "label": "C",
+        "text": "Trong trường hợp khuyết Chủ tịch nước thì Phó Chủ tịch nước sẽ trở thành Chủ tịch nước."
+      },
+      {
+        "label": "D",
+        "text": "Chủ tịch nước là đại biểu Quốc hội."
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 119
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 29: Chính Phủ là?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cơ quan thực thi pháp luật"
+      },
+      {
+        "label": "B",
+        "text": "Cơ quan hành pháp Nhà nước cao nhất"
+      },
+      {
+        "label": "C",
+        "text": "Cơ quan lãnh đạo Nhà nước"
+      },
+      {
+        "label": "D",
+        "text": "Cơ quan hành chính Nhà nước cao nhất"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 120
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 30: Chủ thể của áp dụng pháp luật bao gồm những chủ thể nào sau đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Người có năng lực hành vi dân sự đầy đủ"
+      },
+      {
+        "label": "B",
+        "text": "Cá nhân từ đủ 18 tuổi"
+      },
+      {
+        "label": "C",
+        "text": "Mọi tổ chức có tư cách pháp nhân"
+      },
+      {
+        "label": "D",
+        "text": "Cơ quan nhà nước, cán bộ, công chức nhà nước có thẩm quyền"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 121
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 31: Khi đăng ký kết hôn tại Việt Nam, chủ thể cần thỏa mãn các điều kiện nào sau đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nam và nữ cần có giám định của cơ quan chức năng về năng lực hành vi dân sự"
+      },
+      {
+        "label": "B",
+        "text": "Cả nam và nữ phải có quốc tịch Việt Nam"
+      },
+      {
+        "label": "C",
+        "text": "Nam phải cư trú thường xuyên tại tỉnh hoặc thành phố trực thuộc trung ương của nơi đăng ký kết hôn"
+      },
+      {
+        "label": "D",
+        "text": "Nam từ đủ 20 tuổi trở lên và nữ từ đủ 18 tuổi trở lên"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 122
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 32: Cơ sở thực tế thực hiện trách nhiệm pháp lý là gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Biên bản thi hành án"
+      },
+      {
+        "label": "B",
+        "text": "Hành vi vi phạm pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Kết quả bồi thường thiệt hại của bên bị bồi thường"
+      },
+      {
+        "label": "D",
+        "text": "Bản án của Tòa án"
+      }
+    ],
+    "correct": "B",
+    "note": null,
+    "id": 123
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 33: Nhận định nào sau đây là đúng khi nói về vai trò của pháp luật?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pháp luật là căn cứ để quốc gia bảo vệ chủ quyền quốc gia của mình."
+      },
+      {
+        "label": "B",
+        "text": "Pháp luật giúp Nhà nước thể hiện được quyền lực của mình đối với người dân."
+      },
+      {
+        "label": "C",
+        "text": "Xã hội nhờ có pháp luật điều chỉnh nên mới có thể duy trì được sự công bằng."
+      },
+      {
+        "label": "D",
+        "text": "Trong các dụng cụ, biện pháp được Nhà nước áp dụng để quản lý xã hội thì pháp luật là công cụ quan trọng và chủ yếu nhất."
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 124
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 34: Người thực hành quyền công tố được gọi là gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bị cáo"
+      },
+      {
+        "label": "B",
+        "text": "Công tố viên"
+      },
+      {
+        "label": "C",
+        "text": "Người tố cáo"
+      },
+      {
+        "label": "D",
+        "text": "Kiểm sát viên"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 125
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 35: Tính xác định chặt chẽ về mặt hình thức của pháp luật được thể hiện trong nhận định nào sau đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nhà nước có nhiều biện pháp khuyến khích pháp luật được thực thi một cách tự nguyện."
+      },
+      {
+        "label": "B",
+        "text": "Pháp luật được áp dụng cho tất cả mọi người."
+      },
+      {
+        "label": "C",
+        "text": "Mọi người dân khi vi phạm pháp luật đều phải gánh chịu các chế tài."
+      },
+      {
+        "label": "D",
+        "text": "Pháp luật được ban hành bởi cơ quan Nhà nước có thẩm quyền theo trình tự nhất định."
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 126
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 36: Mặt khách quan của vi phạm pháp luật bao gồm những yếu tố nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hành vi trái pháp luật và Hậu quả do hành vi trái pháp luật gây ra."
+      },
+      {
+        "label": "B",
+        "text": "Lỗi cố ý và Lỗi vô ý"
+      },
+      {
+        "label": "C",
+        "text": "Hành vi trái pháp luật, Hậu quả do hành vi trái pháp luật gây ra"
+      },
+      {
+        "label": "D",
+        "text": "Hành vi trái pháp luật, Hậu quả do hành vi trái pháp luật gây ra, Mối quan hệ nhân quả giữa hành vi trái pháp luật và hậu quả do hành vi trái pháp luật gây ra"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 127
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 37: Giả định là bộ phận trong quy phạm pháp luật và là bộ phận nêu lên những vấn đề nào sau đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Những cá nhân, tổ chức có thể bị điều chỉnh bởi pháp luật"
+      },
+      {
+        "label": "B",
+        "text": "Những chủ thể và điều kiện của chủ thể khi tham gia vào quan hệ pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Những trường hợp có thể xảy ra của quy phạm pháp luật đó"
+      },
+      {
+        "label": "D",
+        "text": "Những chủ thể và hoàn cảnh của chủ thể cần có những xử sự"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 128
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 38: Tiền lệ pháp được sử dụng trong lĩnh vực nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tố tụng dân sự và Tố tụng hình sự"
+      },
+      {
+        "label": "B",
+        "text": "Quyết định của Tòa án xa xưa"
+      },
+      {
+        "label": "C",
+        "text": "Bản án của Tòa án của các nước Anh, Mỹ"
+      },
+      {
+        "label": "D",
+        "text": "Quyết định của cơ quan hành chính hay cơ quan xét xử"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 129
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 39: Các hình thức của pháp luật gồm?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Văn bản pháp luật, Bản án, Hiến pháp"
+      },
+      {
+        "label": "B",
+        "text": "Tập quán pháp, Án lệ, Văn bản pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Tập quán thương mại quốc tế, Án lệ, Luật"
+      },
+      {
+        "label": "D",
+        "text": "Tập quán pháp, Tiền lệ pháp, Văn bản pháp luật"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 130
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 40: Bản chất của pháp luật là?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tính đúng đắn và tính chính xác"
+      },
+      {
+        "label": "B",
+        "text": "Tính bắt buộc và tính cưỡng chế"
+      },
+      {
+        "label": "C",
+        "text": "Tính thượng tôn pháp luật"
+      },
+      {
+        "label": "D",
+        "text": "Tính giai cấp và tính xã hội"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 131
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 41: Người đứng đầu Nhà nước là ai?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thủ tướng Chính phủ"
+      },
+      {
+        "label": "B",
+        "text": "Chủ tịch Quốc Hội"
+      },
+      {
+        "label": "C",
+        "text": "Tổng Bí thư"
+      },
+      {
+        "label": "D",
+        "text": "Chủ tịch nước"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 132
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 42: Ủy ban nhân dân là?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cơ quan giúp việc của Hội đồng nhân dân"
+      },
+      {
+        "label": "B",
+        "text": "Cơ quan quyền lực nhà nước và là cơ quan cao nhất tại địa phương"
+      },
+      {
+        "label": "C",
+        "text": "Cơ quan tư pháp nhà nước"
+      },
+      {
+        "label": "D",
+        "text": "Cơ quan hành chính nhà nước ở địa phương, đồng thời là cơ quan chấp hành của Hội đồng nhân dân cùng cấp"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 133
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 43: Hình thức nhà nước được thể hiện qua các mặt nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hình thức cấu trúc nhà nước"
+      },
+      {
+        "label": "B",
+        "text": "Hình thức chính thể, Hình thức cấu trúc nhà nước"
+      },
+      {
+        "label": "C",
+        "text": "Hình thức chính thể"
+      },
+      {
+        "label": "D",
+        "text": "Hình thức chính thể, Hình thức cấu trúc nhà nước, Chế độ chính trị"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 134
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 44: Học thuyết nào sau đây có giải thích về nguồn gốc Nhà nước?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thuyết tương đối, Thuyết gia trưởng, Thuyết khế ước xã hội"
+      },
+      {
+        "label": "B",
+        "text": "Thuyết tương đối, Thuyết tiến hóa"
+      },
+      {
+        "label": "C",
+        "text": "Thuyết thần học, Thuyết gia trưởng, Thuyết tiến hóa"
+      },
+      {
+        "label": "D",
+        "text": "Thuyết thần học, Thuyết gia trưởng, Thuyết khế ước xã hội"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 135
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 45: Nhận định nào sau đây là SAI?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pháp luật góp phần tạo dựng những quan hệ mới."
+      },
+      {
+        "label": "B",
+        "text": "Pháp luật là cơ sở thiết lập, củng cố và tăng cường quyền lực nhà nước."
+      },
+      {
+        "label": "C",
+        "text": "Pháp luật là phương tiện để nhà nước quản lý mọi mặt đời sống xã hội."
+      },
+      {
+        "label": "D",
+        "text": "Pháp luật là công cụ để giai cấp thống trị mang lại những lợi ích riêng cho mình."
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 136
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 46: Nội dung của một quan hệ pháp luật là gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là yếu tố cấu thành cơ bản của quan hệ pháp luật, bao gồm các quyền của các chủ thể quan hệ pháp luật."
+      },
+      {
+        "label": "B",
+        "text": "Là lợi ích của các chủ thể quan hệ pháp luật."
+      },
+      {
+        "label": "C",
+        "text": "Là yếu tố cấu thành cơ bản của quan hệ pháp luật, bao gồm các nghĩa vụ của các chủ thể quan hệ pháp luật."
+      },
+      {
+        "label": "D",
+        "text": "Là yếu tố cấu thành cơ bản của quan hệ pháp luật, bao gồm quyền và nghĩa vụ của các chủ thể quan hệ pháp luật."
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 137
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 47: Thực hiện pháp luật có các hình thức nào sau đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tập quán pháp, Án lệ, Văn bản pháp luật"
+      },
+      {
+        "label": "B",
+        "text": "Tuân thủ pháp luật, Thực thi pháp luật, Thi hành pháp luật, Áp dụng pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Tập quán pháp, Tiền lệ pháp, Văn bản pháp luật"
+      },
+      {
+        "label": "D",
+        "text": "Tuân thủ pháp luật, Thi hành pháp luật, Sử dụng pháp luật, Áp dụng pháp luật"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 138
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 48: Người đứng đầu Tòa án nhân dân tối cao được gọi là gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Trưởng Tòa án nhân dân tối cao"
+      },
+      {
+        "label": "B",
+        "text": "Thẩm phán Tòa án nhân dân tối cao"
+      },
+      {
+        "label": "C",
+        "text": "Chủ tọa Tòa án nhân dân tối cao"
+      },
+      {
+        "label": "D",
+        "text": "Chánh án Tòa án nhân dân tối cao"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 139
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 49: Cơ quan xét xử của Nhà nước là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tòa thị chính"
+      },
+      {
+        "label": "B",
+        "text": "Viện kiểm sát nhân dân"
+      },
+      {
+        "label": "C",
+        "text": "Viện Công tố"
+      },
+      {
+        "label": "D",
+        "text": "Tòa án nhân dân"
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 140
+  },
+  {
+    "bai": "Kiểm Tra Giữa Kỳ",
+    "question": "Câu 50: Bộ máy nhà nước là gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là hệ thống các cơ quan quyền lực nhà nước tại trung ương và địa phương."
+      },
+      {
+        "label": "B",
+        "text": "Là hệ thống các cơ quan hành chính thực hiện quyền lực nhà nước."
+      },
+      {
+        "label": "C",
+        "text": "Là hệ thống bao gồm cơ quan lập pháp, cơ quan hành pháp và cơ quan tư pháp."
+      },
+      {
+        "label": "D",
+        "text": "Là hệ thống các cơ quan nhà nước được tổ chức theo những nguyên tắc nhất định, để thực hiện các nhiệm vụ và chức năng của nhà nước."
+      }
+    ],
+    "correct": "D",
+    "note": null,
+    "id": 141
   }
 ]
