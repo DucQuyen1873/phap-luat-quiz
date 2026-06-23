@@ -1,0 +1,2302 @@
+[
+  {
+    "id": 0,
+    "bai": "Bài 1: Những vấn đề cơ bản về nhà nước",
+    "question": "Câu 1: Đây không phải là bộ phận thuộc bộ máy nhà nước CHXHCN Việt Nam",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mặt trận tổ quốc"
+      },
+      {
+        "label": "B",
+        "text": "Quốc hội"
+      },
+      {
+        "label": "C",
+        "text": "Tòa án"
+      },
+      {
+        "label": "D",
+        "text": "Chính phủ"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 1,
+    "bai": "Bài 1: Những vấn đề cơ bản về nhà nước",
+    "question": "Câu 2: Theo học thuyết Mác-xít, đây không phải là điều kiện xuất hiện nhà nước:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sự phát triển của sở hữu tư nhân."
+      },
+      {
+        "label": "B",
+        "text": "Phân hóa xã hội"
+      },
+      {
+        "label": "C",
+        "text": "Mâu thuẫn giai cấp"
+      },
+      {
+        "label": "D",
+        "text": "Đồng thuận xã hội"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 2,
+    "bai": "Bài 1: Những vấn đề cơ bản về nhà nước",
+    "question": "Câu 3: Nhà nước có chức năng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Phòng thủ đất nước, chống ngoại xâm."
+      },
+      {
+        "label": "B",
+        "text": "Trấn áp tội phạm."
+      },
+      {
+        "label": "C",
+        "text": "Tất cả các chức năng trên."
+      },
+      {
+        "label": "D",
+        "text": "Bảo vệ quyền lợi chính đáng của công dân."
+      }
+    ],
+    "correct": "C",
+    "note": null
+  },
+  {
+    "id": 3,
+    "bai": "Bài 1: Những vấn đề cơ bản về nhà nước",
+    "question": "Câu 4: Theo Hiến pháp 2013, Chính phủ nước CHXHCN Việt Nam do:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quốc hội thành lập"
+      },
+      {
+        "label": "B",
+        "text": "Tòa án thành lập."
+      },
+      {
+        "label": "C",
+        "text": "Chủ tịch nước thành lập"
+      },
+      {
+        "label": "D",
+        "text": "Dân bầu"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 4,
+    "bai": "Bài 1: Những vấn đề cơ bản về nhà nước",
+    "question": "Câu 5: Quốc hội không có quyền:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lập hiến."
+      },
+      {
+        "label": "B",
+        "text": "Xét xử"
+      },
+      {
+        "label": "C",
+        "text": "Lập pháp"
+      },
+      {
+        "label": "D",
+        "text": "Giám sát tối cao"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 5,
+    "bai": "Bài 1: Những vấn đề cơ bản về nhà nước",
+    "question": "Câu 6: Nhà nước nào sau đây có chính thể cộng hòa tổng thống?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Triều Tiên"
+      },
+      {
+        "label": "B",
+        "text": "Mỹ"
+      },
+      {
+        "label": "C",
+        "text": "Trung Quốc"
+      },
+      {
+        "label": "D",
+        "text": "Việt Nam"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 6,
+    "bai": "Bài 1: Những vấn đề cơ bản về nhà nước",
+    "question": "Câu 7: Đây không phải là một thuộc tính của nhà nước",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nhà nước quản lý dân cư theo huyết thống"
+      },
+      {
+        "label": "B",
+        "text": "Nhà nước quy định và thu các loại thuế."
+      },
+      {
+        "label": "C",
+        "text": "Nhà nước ban hành pháp luật"
+      },
+      {
+        "label": "D",
+        "text": "Nhà nước thiết lập quyền lực công cộng đặc biệt"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 7,
+    "bai": "Bài 2: Những vấn đề cơ bản về pháp luật",
+    "question": "Câu 1: Thuộc tính của pháp luật bao gồm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tất cả các tính chất trên"
+      },
+      {
+        "label": "B",
+        "text": "Tính quy phạm phổ biến"
+      },
+      {
+        "label": "C",
+        "text": "Tính xác định chặt chẽ về mặt hình thức"
+      },
+      {
+        "label": "D",
+        "text": "Tính bảo đảm được thực hiện bằng Nhà nước"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 8,
+    "bai": "Bài 2: Những vấn đề cơ bản về pháp luật",
+    "question": "Câu 2: Hình thức nào dưới đây là hình thức của pháp luật?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Xu hướng xã hội"
+      },
+      {
+        "label": "B",
+        "text": "Phong tục tập quán"
+      },
+      {
+        "label": "C",
+        "text": "Quy tắc tôn giáo"
+      },
+      {
+        "label": "D",
+        "text": "Tiền lệ pháp"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 9,
+    "bai": "Bài 2: Những vấn đề cơ bản về pháp luật",
+    "question": "Câu 3: Bản chất của pháp luật bao gồm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tính quyền lực và tính ứng dụng"
+      },
+      {
+        "label": "B",
+        "text": "Tính xã hội và tính ứng dụng"
+      },
+      {
+        "label": "C",
+        "text": "Tính quyền lực và tính răn đe"
+      },
+      {
+        "label": "D",
+        "text": "Tính giai cấp và tính xã hội"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 10,
+    "bai": "Bài 2: Những vấn đề cơ bản về pháp luật",
+    "question": "Câu 4: Pháp luật ra đời khi nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pháp luật ra đời khi loài người xuất hiện."
+      },
+      {
+        "label": "B",
+        "text": "Pháp luật ra đời khi nhà nước ban hành luật lệ."
+      },
+      {
+        "label": "C",
+        "text": "Pháp luật ra đời cùng với nhà nước."
+      },
+      {
+        "label": "D",
+        "text": "Pháp luật ra đời khi giai cấp thống trị vận dụng các tập quán thành quy định bắt buộc."
+      }
+    ],
+    "correct": "C",
+    "note": null
+  },
+  {
+    "id": 11,
+    "bai": "Bài 2: Những vấn đề cơ bản về pháp luật",
+    "question": "Câu 5: Nhận định nào sau đây thể hiện vai trò của pháp luật?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pháp luật được áp dụng bắt buộc với tất cả chủ thể."
+      },
+      {
+        "label": "B",
+        "text": "Pháp luật tạo ra môi trường ổn định trong việc thiết lập các mối quan hệ bang giao giữa các quốc gia."
+      },
+      {
+        "label": "C",
+        "text": "Pháp luật là phương tiện để nhà nước quản lý mọi mặt đời sống xã hội."
+      },
+      {
+        "label": "D",
+        "text": "B và C đều đúng."
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 12,
+    "bai": "Bài 2: Những vấn đề cơ bản về pháp luật",
+    "question": "Câu 6: Pháp luật có chức năng nào sau đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chức năng giáo dục"
+      },
+      {
+        "label": "B",
+        "text": "Chức năng răn đe"
+      },
+      {
+        "label": "C",
+        "text": "Chức năng chế tài"
+      },
+      {
+        "label": "D",
+        "text": "Chức năng ngoại giao"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 13,
+    "bai": "Bài 2: Những vấn đề cơ bản về pháp luật",
+    "question": "Câu 7: Pháp luật có mối quan hệ với các hiện tượng xã hội nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mối quan hệ với chính trị, kinh tế và xã hội"
+      },
+      {
+        "label": "B",
+        "text": "Mối quan hệ với kinh tế, chính trị và nhà nước"
+      },
+      {
+        "label": "C",
+        "text": "Mối quan hệ với nhà nước và tài chính"
+      },
+      {
+        "label": "D",
+        "text": "Mối quan hệ với kinh tế và xã hội"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 14,
+    "bai": "Bài 2: Những vấn đề cơ bản về pháp luật",
+    "question": "Câu 8: Nhận định nào sau đây là SAI?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pháp luật góp phần tạo dựng những quan hệ mới."
+      },
+      {
+        "label": "B",
+        "text": "Pháp luật là cơ sở thiết lập, củng cố và tăng cường quyền lực nhà nước."
+      },
+      {
+        "label": "C",
+        "text": "Pháp luật là phương tiện để nhà nước quản lý mọi mặt đời sống xã hội."
+      },
+      {
+        "label": "D",
+        "text": "Pháp luật là công cụ để giai cấp thống trị mang lại những lợi ích riêng cho mình."
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 15,
+    "bai": "Bài 2: Những vấn đề cơ bản về pháp luật",
+    "question": "Câu 9: Tiền lệ pháp là gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là hình thức nhà nước thừa nhận các quyết định của cơ quan hành chính hay cơ quan xét xử khi giải quyết những vụ việc cụ thể làm khuôn mẫu áp dụng đối với các vụ việc tương tự."
+      },
+      {
+        "label": "B",
+        "text": "Là hình thức nhà nước thừa nhận các quyết định của nghị viện hay quốc hội làm khuôn mẫu áp dụng đối với các vụ việc tương tự."
+      },
+      {
+        "label": "C",
+        "text": "Là hình thức nhà nước thừa nhận các quyết định của cơ quan xét xử khi giải quyết những vụ việc cụ thể làm khuôn mẫu áp dụng đối với các vụ việc tương tự."
+      },
+      {
+        "label": "D",
+        "text": "Là hình thức nhà nước thừa nhận các quyết định của cơ quan hành chính khi giải quyết những vụ việc cụ thể làm khuôn mẫu áp dụng đối với các vụ việc tương tự."
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 16,
+    "bai": "Bài 2: Những vấn đề cơ bản về pháp luật",
+    "question": "Câu 10: Loại văn bản nào sau đây là văn bản pháp luật?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bản án của Tòa án"
+      },
+      {
+        "label": "B",
+        "text": "Hiến pháp"
+      },
+      {
+        "label": "C",
+        "text": "Hợp đồng"
+      },
+      {
+        "label": "D",
+        "text": "Phán quyết trọng tài"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 17,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 1: Về mặt cấu trúc, mỗi một quy phạm pháp luật:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Phải có ba bộ phận cấu thành"
+      },
+      {
+        "label": "B",
+        "text": "Phải có ít nhất hai bộ phận trong ba bộ phận"
+      },
+      {
+        "label": "C",
+        "text": "Tất cả đều sai"
+      },
+      {
+        "label": "D",
+        "text": "Chỉ cần có một trong ba bộ phận nêu trên"
+      }
+    ],
+    "correct": "B",
+    "note": "* Chú ý câu này: Hệ thống không hiện đáp án đúng, tự mở slide kiểm tra lại cấu trúc quy phạm. [Câu hỏi này có ghi chú đặc biệt, kiểm tra lại slide]"
+  },
+  {
+    "id": 18,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 2: Xét về độ tuổi, người có năng lực hành vi dân sự đầy đủ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Từ đủ 16 tuổi"
+      },
+      {
+        "label": "B",
+        "text": "Từ đủ 25 tuổi"
+      },
+      {
+        "label": "C",
+        "text": "Từ đủ 21 tuổi"
+      },
+      {
+        "label": "D",
+        "text": "Từ đủ 18 tuổi"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 19,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 3: Cơ quan nào có thẩm quyền hạn chế năng lực hành vi của công dân?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Viện kiểm sát nhân dân"
+      },
+      {
+        "label": "B",
+        "text": "Toà án nhân dân"
+      },
+      {
+        "label": "C",
+        "text": "Hội đồng nhân dân"
+      },
+      {
+        "label": "D",
+        "text": "Quốc hội"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 20,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 4: Quy phạm pháp luật là cách xử sự do Nhà nước quy định để?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Áp dụng cho một lần duy nhất và vẫn còn hiệu lực cho những lần áp dụng sau đó"
+      },
+      {
+        "label": "B",
+        "text": "Áp dụng cho một lần duy nhất và hết hiệu lực sau lần áp dụng đó"
+      },
+      {
+        "label": "C",
+        "text": "Áp dụng cho nhiều lần và vẫn còn hiệu lực cho những lần áp dụng sau đó"
+      },
+      {
+        "label": "D",
+        "text": "Áp dụng cho nhiều lần và hết hiệu lực sau lần áp dụng đó"
+      }
+    ],
+    "correct": "C",
+    "note": null
+  },
+  {
+    "id": 21,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 5: Tính xác định chặt chẽ về mặt hình thức là đặc trưng của:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quy phạm tôn giáo"
+      },
+      {
+        "label": "B",
+        "text": "Quy phạm pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Quy phạm tập quán"
+      },
+      {
+        "label": "D",
+        "text": "Quy phạm đạo đức"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 22,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 6: Chế tài có các loại sau:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chế tài hình sự và chế tài hành chính"
+      },
+      {
+        "label": "B",
+        "text": "Chế tài hình sự, chế tài hành chính, chế tài kỷ luật, chế tài dân sự và chế tài bắt buộc"
+      },
+      {
+        "label": "C",
+        "text": "Chế tài hình sự, chế tài hành chính, chế tài kỷ luật và chế tài dân sự"
+      },
+      {
+        "label": "D",
+        "text": "Chế tài hình sự, chế tài hành chính và chế tài dân sự"
+      }
+    ],
+    "correct": "C",
+    "note": null
+  },
+  {
+    "id": 23,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 7: Hiệu lực của văn bản quy phạm pháp luật gồm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hiệu lực về không gian và hiệu lực về đối tượng áp dụng"
+      },
+      {
+        "label": "B",
+        "text": "Hiệu lực về thời gian và hiệu lực về không gian"
+      },
+      {
+        "label": "C",
+        "text": "Hiệu lực về thời gian và hiệu lực về đối tượng áp dụng"
+      },
+      {
+        "label": "D",
+        "text": "Hiệu lực về thời gian, không gian và đối tượng áp dụng"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 24,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 8: Phần tử cấu thành nhỏ nhất của hệ thống pháp luật:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Điều luật"
+      },
+      {
+        "label": "B",
+        "text": "Giả định hoặc quy định hoặc chế tài"
+      },
+      {
+        "label": "C",
+        "text": "Tất cả đều sai"
+      },
+      {
+        "label": "D",
+        "text": "Quy phạm pháp luật"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 25,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 9: Sự kiện pháp lý có thể:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Làm thay đổi một quan hệ pháp luật cụ thể"
+      },
+      {
+        "label": "B",
+        "text": "Làm chấm dứt một quan hệ pháp luật cụ thể"
+      },
+      {
+        "label": "C",
+        "text": "Làm phát sinh một quan hệ pháp luật cụ thể"
+      },
+      {
+        "label": "D",
+        "text": "Tất cả đều đúng"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 26,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 10: Hành vi là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Những sự kiện xảy ra phụ thuộc trực tiếp vào ý chí con người"
+      },
+      {
+        "label": "B",
+        "text": "Cả a và b đúng"
+      },
+      {
+        "label": "C",
+        "text": "Những hiện tượng của đời sống khách quan xảy ra không phụ thuộc vào ý chí con người"
+      },
+      {
+        "label": "D",
+        "text": "Cả a và b sai"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 27,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 11: Các dấu hiệu của văn bản quy phạm pháp luật:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Có tính bắt buộc chung"
+      },
+      {
+        "label": "B",
+        "text": "Cả a và b đúng"
+      },
+      {
+        "label": "C",
+        "text": "Được áp dụng nhiều lần"
+      },
+      {
+        "label": "D",
+        "text": "Cả a và b sai"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 28,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 12: Khẳng định nào sau đây là đúng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Muốn trở thành chủ thể quan hệ pháp luật trước hết phải là chủ thể pháp luật"
+      },
+      {
+        "label": "B",
+        "text": "Đã là chủ thể quan hệ pháp luật thì là chủ thể pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Đã là chủ thể quan hệ pháp luật thì có thể là chủ thể pháp luật, có thể không phải là chủ thể pháp luật"
+      },
+      {
+        "label": "D",
+        "text": "Cả A và B"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 29,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 13: Điều kiện để làm phát sinh, thay đổi hay chấm dứt một quan hệ pháp luật:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Khi xảy ra sự kiện pháp lý"
+      },
+      {
+        "label": "B",
+        "text": "Cả ba đáp án"
+      },
+      {
+        "label": "C",
+        "text": "Khi xuất hiện chủ thể pháp luật trong trường hợp cụ thể"
+      },
+      {
+        "label": "D",
+        "text": "Khi có QPPL điều chỉnh QHXH tương ứng"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 30,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 14: Sự biến là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Những sự kiện xảy ra phụ thuộc trực tiếp vào ý chí con người"
+      },
+      {
+        "label": "B",
+        "text": "Những hiện tượng của đời sống khách quan xảy ra không phụ thuộc vào ý chí con người"
+      },
+      {
+        "label": "C",
+        "text": "Cả A, B và C đều sai"
+      },
+      {
+        "label": "D",
+        "text": "Những sự kiện xảy ra có thể phụ thuộc trực tiếp vào ý chí con người hoặc không phụ thuộc vào ý chí con người, tùy theo từng trường hợp cụ thể"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 31,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 15: Uỷ ban nhân dân cấp huyện có thể ban hành văn bản quy phạm pháp luật nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nghị quyết"
+      },
+      {
+        "label": "B",
+        "text": "Quyết định"
+      },
+      {
+        "label": "C",
+        "text": "Pháp lệnh"
+      },
+      {
+        "label": "D",
+        "text": "Thông tư"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 32,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 16: Văn bản nào có hiệu lực cao nhất trong trong số các loại văn bản sau của HTPL Việt Nam:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quyết định"
+      },
+      {
+        "label": "B",
+        "text": "Thông tư"
+      },
+      {
+        "label": "C",
+        "text": "Chỉ thị"
+      },
+      {
+        "label": "D",
+        "text": "Nghị định"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 33,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 17: Đạo luật nào dưới đây quy định một cách cơ bản về chế độ chính trị, chế độ kinh tế, văn hóa, xã hội và tổ chức bộ máy nhà nước:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hiến pháp"
+      },
+      {
+        "label": "B",
+        "text": "Cả A, B và C đều đúng"
+      },
+      {
+        "label": "C",
+        "text": "Bộ luật hình sự"
+      },
+      {
+        "label": "D",
+        "text": "Bộ luật dân sự"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 34,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 18: Năng lực pháp luật là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cả a và b đều đúng"
+      },
+      {
+        "label": "B",
+        "text": "Khả năng của chủ thể được nhà nước thừa nhận, bằng các hành vi của mình thực hiện các quyền chủ thể và nghĩa vụ pháp lý, tham gia vào các QHPL"
+      },
+      {
+        "label": "C",
+        "text": "Cả a và b đều sai"
+      },
+      {
+        "label": "D",
+        "text": "Khả năng của chủ thể có được các quyền chủ thể và mang các nghĩa vụ pháp lý mà nhà nước thừa nhận"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 35,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 19: Văn bản nào sau đây không phải là văn bản quy phạm pháp luật?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Điều lệ của công ty"
+      },
+      {
+        "label": "B",
+        "text": "Thông tư của Chánh án Tòa án nhân dân tối cao"
+      },
+      {
+        "label": "C",
+        "text": "Nghị quyết của Quốc hội"
+      },
+      {
+        "label": "D",
+        "text": "Quyết định của Ủy ban nhân dân cấp tỉnh"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 36,
+    "bai": "Bài 3: Quy phạm pháp luật, Quan hệ pháp luật",
+    "question": "Câu 20: Đâu không phải là đặc điểm của quan hệ pháp luật?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mang tính ý chí"
+      },
+      {
+        "label": "B",
+        "text": "Mang tính bình đẳng, thoả thuận"
+      },
+      {
+        "label": "C",
+        "text": "Các bên chủ thể tham gia quan hệ pháp luật thực hiện các quyền và nghĩa vụ pháp lý"
+      },
+      {
+        "label": "D",
+        "text": "Phát sinh trên cơ sở quy phạm pháp luật"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 37,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 1: Cứ sáng thứ 7 hằng tuần, nhân dân khu dân cư M lại tập trung làm vệ sinh đường phố. Việc làm của nhân dân khu dân cư M là biểu hiện của hình thức thực hiện pháp luật nào dưới đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sử dụng pháp luật"
+      },
+      {
+        "label": "B",
+        "text": "Tuân thủ pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Áp dụng pháp luật"
+      },
+      {
+        "label": "D",
+        "text": "Thi hành pháp luật"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 38,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 2: Hành vi nào sau đây là vi phạm dân sự?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A dùng dao đâm chết E"
+      },
+      {
+        "label": "B",
+        "text": "G bất cẩn rồ ga xe máy tông hỏng cửa nhà H"
+      },
+      {
+        "label": "C",
+        "text": "Ông K cơi nới nhà nên đã để sắt, thép chiếm dụng lối đi của người tham gia giao thông"
+      },
+      {
+        "label": "D",
+        "text": "B điều khiển xe máy vượt đèn đỏ"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 39,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 3: Là công nhân, mặc dù đã được nhắc nhở nhiều lần nhưng M vẫn thường xuyên vi phạm các quy định về an toàn lao động. Hành vi vi phạm của M thuộc lĩnh vực nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Vi phạm kỷ luật"
+      },
+      {
+        "label": "B",
+        "text": "Vi phạm dân sự"
+      },
+      {
+        "label": "C",
+        "text": "Vi phạm hình sự"
+      },
+      {
+        "label": "D",
+        "text": "Vi phạm hành chính"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 40,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 4: Cơ sở để truy cứu trách nhiệm pháp lý là gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tất cả đều đúng"
+      },
+      {
+        "label": "B",
+        "text": "Hành vi vi phạm pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Tất cả đều sai"
+      },
+      {
+        "label": "D",
+        "text": "Hành vi trái pháp luật"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 41,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 5: H làm nghề lái xe taxi. Ban đêm, trên đường về nhà, H nhìn thấy ven đường có một chiếc xe máy, bên cạnh là một thanh niên đang nằm sõng soài nhưng H không dừng lại mà còn chạy đi nhanh hơn vì sợ phiền phức cũng như sợ đây là dàn cảnh cướp tài sản. Hành vi này của H là dạng hành vi trái pháp luật nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Không hành động"
+      },
+      {
+        "label": "B",
+        "text": "Tất cả đều sai"
+      },
+      {
+        "label": "C",
+        "text": "Không phải là hành vi trái pháp luật"
+      },
+      {
+        "label": "D",
+        "text": "Hành động"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 42,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 6: A, 45 tuổi cùng B, 42 tuổi là hàng xóm. Chiều ngày chủ nhật, A mời B sang nhà A nhậu từ 14h. Đến 14h30, do xảy ra cự cãi, A đã vớ lấy chai bia gần đó đập vào đầu B và lấy mảnh vỡ chai bia ghim vào cổ B. Hãy xác định lỗi của A trong tình huống trên.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lỗi vô ý do cẩu thả"
+      },
+      {
+        "label": "B",
+        "text": "Lỗi vô ý do quá tự tin"
+      },
+      {
+        "label": "C",
+        "text": "Lỗi cố ý trực tiếp"
+      },
+      {
+        "label": "D",
+        "text": "Lỗi cố ý gián tiếp"
+      }
+    ],
+    "correct": "C",
+    "note": null
+  },
+  {
+    "id": 43,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 7: Công dân đủ 18 tuổi đi bầu cử đại biểu quốc hội. Việc làm này của công dân là biểu hiện của hình thức thực hiện pháp luật nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sử dụng pháp luật"
+      },
+      {
+        "label": "B",
+        "text": "Áp dụng pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Thi hành pháp luật"
+      },
+      {
+        "label": "D",
+        "text": "Tuân thủ pháp luật"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 44,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 8: A và B, 8 tuổi, hay bày trò chọc phá. Một lần, A và B liền lấy dây thép giăng ngang giữa đường để chơi nhảy dây. Sau khi chơi xong, A và B đi về để đoạn dây ở đó. Tối, C chạy xe máy đi ngang qua đoạn đường đã không để ý sợi dây cước liền vướng phải sợi dây, té ngã bị gãy chân. Hỏi, hành vi của A và B có phải là hành vi vi phạm pháp luật?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Phải vì có đầy đủ dấu hiệu của một vi phạm pháp luật"
+      },
+      {
+        "label": "B",
+        "text": "Tất cả đều sai"
+      },
+      {
+        "label": "C",
+        "text": "Không đủ dữ liệu"
+      },
+      {
+        "label": "D",
+        "text": "Không vì A và B không có năng lực trách nhiệm pháp lý"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 45,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 9: E vừa đi rút tiền từ ngân hàng về. Mới quẹo vào khúc cua, E đã bị F dùng dao dí vào cổ buộc E phải đưa tiền cho F, nếu không đưa thì sẽ bị đâm. Lúc này, có ba người dân gần đó thấy hành động của F liền lao tới khống chế F. Vậy hành vi của F có phải là vi phạm pháp luật hay không?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Có vì đã đầy đủ các yếu tố cấu thành một vi phạm pháp luật"
+      },
+      {
+        "label": "B",
+        "text": "Tất cả đều sai"
+      },
+      {
+        "label": "C",
+        "text": "Không đủ dữ liệu"
+      },
+      {
+        "label": "D",
+        "text": "Không vì F đã không cướp được tiền của E"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 46,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 10: Là người kinh doanh tự do, bà K thường xuyên bày bán hàng trên hè phố. Việc làm của bà K là biểu hiện của hành vi vi phạm pháp luật nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Vi phạm kỷ luật"
+      },
+      {
+        "label": "B",
+        "text": "Vi phạm dân sự"
+      },
+      {
+        "label": "C",
+        "text": "Vi phạm hình sự"
+      },
+      {
+        "label": "D",
+        "text": "Vi phạm hành chính"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 47,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 11: Anh H và chị F cùng nhau ký kết một hợp đồng mua bán xe ô tô trị giá 800 triệu Việt Nam đồng theo trình tự của pháp luật. Hãy cho biết, hành vi của hai người là hình thức nào trong thực hiện pháp luật?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Áp dụng pháp luật"
+      },
+      {
+        "label": "B",
+        "text": "Thi hành pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Tuân thủ pháp luật"
+      },
+      {
+        "label": "D",
+        "text": "Sử dụng pháp luật"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 48,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 12: Cứ sáng thứ 7 hằng tuần, nhân dân khu dân cư Z lại tập trung làm vệ sinh đường phố. Việc làm của nhân dân khu dân cư Z là biểu hiện của hình thức thực hiện pháp luật nào dưới đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thi hành pháp luật"
+      },
+      {
+        "label": "B",
+        "text": "Áp dụng pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Sử dụng pháp luật"
+      },
+      {
+        "label": "D",
+        "text": "Tuân thủ pháp luật"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 49,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 13: Sau khi bị sếp la mắng tại công ty, A vô cùng bực tức. Trên đường về nhà, A có đi ngang qua một công viên gần chung cư A đang ở. Lại nghĩ tới chuyện bị sếp mắng, A bực dọc vớ lấy cục gạch gần đó ném mạnh về phía lùm cây, lúc này người của công ty dịch vụ công ích đang tưới cây và bị cục gạch của A ném vào đầu khiến cho chảy máu. Hãy xác định yếu tố lỗi trong hành vi của A.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lỗi cố ý gián tiếp"
+      },
+      {
+        "label": "B",
+        "text": "Lỗi cố ý trực tiếp"
+      },
+      {
+        "label": "C",
+        "text": "Lỗi vô ý do quá tự tin"
+      },
+      {
+        "label": "D",
+        "text": "Lỗi vô ý do cẩu thả"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 50,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 14: B là sinh viên và đang trong kỳ thi học kỳ. Theo như quy chế thi thì sinh viên không được sử dụng bút xóa nhưng B đã sử dụng bút xóa trong bài làm của mình nên cán bộ coi thi đã lập biên bản bài làm của B và không nhận bài làm của bạn. Như vậy biện pháp cán bộ coi thi áp dụng với B là loại trách nhiệm nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dân sự"
+      },
+      {
+        "label": "B",
+        "text": "Hình sự"
+      },
+      {
+        "label": "C",
+        "text": "Kỷ luật"
+      },
+      {
+        "label": "D",
+        "text": "Hành chính"
+      }
+    ],
+    "correct": "C",
+    "note": null
+  },
+  {
+    "id": 51,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 15: Anh A, 30 tuổi, bị bệnh tâm thần phân liệt và đã được Tòa tuyên bố là mất năng lực hành vi dân sự. Một ngày, người giám hộ của anh A có việc gấp phải ra ngoài trong khoảng thời gian ngắn, anh A ở nhà lấy bao diêm chơi. Sau khi chơi chán anh A quăng que diêm đi mà chưa dập lửa khiến cho que bắt lửa cháy căn nhà cùng các nhà hàng xóm. Từ tình huống trên, hãy xác định yếu tố lỗi của A",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lỗi cố ý gián tiếp"
+      },
+      {
+        "label": "B",
+        "text": "Lỗi cố ý trực tiếp"
+      },
+      {
+        "label": "C",
+        "text": "Tất cả đều sai"
+      },
+      {
+        "label": "D",
+        "text": "Lỗi vô ý do cẩu thả"
+      }
+    ],
+    "correct": "C",
+    "note": null
+  },
+  {
+    "id": 52,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 16: A và B, 10 tuổi rất thích đùa nghịch. Một lần, A và B làm bể bánh xe nhà chị C. Hành vi của A và B",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tất cả đều sai"
+      },
+      {
+        "label": "B",
+        "text": "Hành vi vi phạm pháp luật dân sự"
+      },
+      {
+        "label": "C",
+        "text": "Hành vi vi phạm pháp luật hình sự"
+      },
+      {
+        "label": "D",
+        "text": "Hành vi vi phạm pháp luật hành chính"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 53,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 17: Theo quy định của pháp luật, người phải chịu trách nhiệm hình sự về mọi tội phạm theo quy định của pháp luật có độ tuổi từ đủ",
+    "options": [
+      {
+        "label": "A",
+        "text": "15 tuổi trở lên"
+      },
+      {
+        "label": "B",
+        "text": "18 tuổi trở lên"
+      },
+      {
+        "label": "C",
+        "text": "14 tuổi trở lên"
+      },
+      {
+        "label": "D",
+        "text": "16 tuổi trở lên"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 54,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 18: Cơ sở thực tế làm phát sinh trách nhiệm pháp lý là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hành vi trái pháp luật"
+      },
+      {
+        "label": "B",
+        "text": "Vi phạm pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Tất cả đều đúng"
+      },
+      {
+        "label": "D",
+        "text": "Thiệt hại thực tế xảy ra"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 55,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 19: Hành vi nào sau đây là vi phạm pháp luật dân sự?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A lái xe vượt quá tốc độ tông vào B khiến B tử vong"
+      },
+      {
+        "label": "B",
+        "text": "E xây nhà trái pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Tất cả đều đúng"
+      },
+      {
+        "label": "D",
+        "text": "C sử dụng hình ảnh của D mà không được D cho phép trên sản phẩm của mình"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 56,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 20: Khách thể của vi phạm pháp luật là?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Toàn bộ những biểu hiện diễn ra tồn tại bên ngoài thế giới khách quan của vi phạm pháp luật"
+      },
+      {
+        "label": "B",
+        "text": "Năng lực trách nhiệm pháp lý"
+      },
+      {
+        "label": "C",
+        "text": "Lợi ích các bên tham gia mong muốn đạt được"
+      },
+      {
+        "label": "D",
+        "text": "Diễn biến tâm lý bên trong của chủ thể khi thực hiện hành vi vi phạm pháp luật"
+      }
+    ],
+    "correct": "B",
+    "note": "* Chú ý câu này: Đề lỗi nặng, không có phương án nào đúng theo lý thuyết chuẩn. [Câu hỏi này có ghi chú đặc biệt, kiểm tra lại slide]"
+  },
+  {
+    "id": 57,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 21: “Tội phạm” hành vi vi phạm pháp luật…",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hình sự"
+      },
+      {
+        "label": "B",
+        "text": "Hành chính"
+      },
+      {
+        "label": "C",
+        "text": "Dân sự"
+      },
+      {
+        "label": "D",
+        "text": "Kỷ luật nhà nước"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 58,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 22: Cơ quan nào dưới đây có quyền công tố và giám sát hoạt động tư pháp?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tất cả đều đúng"
+      },
+      {
+        "label": "B",
+        "text": "Tòa án nhân dân"
+      },
+      {
+        "label": "C",
+        "text": "Chính phủ"
+      },
+      {
+        "label": "D",
+        "text": "Viện kiểm sát nhân dân"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 59,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 23: Sinh viên chọn câu nhận định đúng",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hành vi trái pháp luật có thể dưới dạng hành động hoặc không hành động"
+      },
+      {
+        "label": "B",
+        "text": "Hành vi vi phạm pháp luật có thể không có yếu tố lỗi"
+      },
+      {
+        "label": "C",
+        "text": "Tất cả đều đúng"
+      },
+      {
+        "label": "D",
+        "text": "Mọi hành vi trái pháp luật đều là hành vi vi phạm pháp luật"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 60,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 24: Hành vi nào sau đây là hành vi vi phạm pháp luật hình sự?",
+    "options": [
+      {
+        "label": "A",
+        "text": "C làm bể bình hoa nhà H"
+      },
+      {
+        "label": "B",
+        "text": "A có hành vi xúi giục B tự tử"
+      },
+      {
+        "label": "C",
+        "text": "Viên chức nhà nước đi làm trễ giờ"
+      },
+      {
+        "label": "D",
+        "text": "Bà B bán hàng rong lấn chiếm vỉa hè"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 61,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 25: Trong các loại lỗi sau đây, loại lỗi nào là chủ thể nhận thức được hành vi của mình là vi phạm pháp luật, thấy trước được hậu quả sẽ xảy ra và mong muốn hậu quả này xảy ra?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lỗi cố ý trực tiếp"
+      },
+      {
+        "label": "B",
+        "text": "Lỗi vô ý do cẩu thả"
+      },
+      {
+        "label": "C",
+        "text": "Lỗi cố ý gián tiếp"
+      },
+      {
+        "label": "D",
+        "text": "Lỗi vô ý do quá tự tin"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 62,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 26: Chủ thể của vi phạm pháp luật là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Trạng thái tâm lý của chủ thể khi thực hiện hành vi"
+      },
+      {
+        "label": "B",
+        "text": "Hậu quả của vi phạm pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Tất cả đều đúng"
+      },
+      {
+        "label": "D",
+        "text": "Cá nhân có năng lực trách nhiệm pháp lý, tổ chức theo quy định pháp luật"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 63,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 27: A đăng ký thành lập doanh nghiệp là công ty trách nhiệm hữu hạn một thành viên tại cơ quan có thẩm quyền. Hành vi của A là hình thức nào của thực hiện pháp luật?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sử dụng pháp luật"
+      },
+      {
+        "label": "B",
+        "text": "Áp dụng pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Tuân thủ pháp luật"
+      },
+      {
+        "label": "D",
+        "text": "Thi hành pháp luật"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 64,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 28: A điều khiển xe gắn máy vượt đèn đỏ bị cảnh sát giao thông xử phạt. Hành vi của cảnh sát giao thông là hình thức nào của thực hiện pháp luật?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Áp dụng pháp luật"
+      },
+      {
+        "label": "B",
+        "text": "Tuân thủ pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Thi hành pháp luật"
+      },
+      {
+        "label": "D",
+        "text": "Sử dụng pháp luật"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 65,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 29: Việc chủ thể tích cực thực hiện nghĩa vụ pháp lý của mình là hình thức nào thực hiện pháp luật?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Áp dụng pháp luật"
+      },
+      {
+        "label": "B",
+        "text": "Tuân thủ pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Sử dụng pháp luật"
+      },
+      {
+        "label": "D",
+        "text": "Thi hành pháp luật"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 66,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 30: Việc chủ thể không tiến hành những hoạt động mà pháp luật cấm là hình thức nào của thực hiện pháp luật?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sử dụng pháp luật"
+      },
+      {
+        "label": "B",
+        "text": "Thi hành pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Áp dụng pháp luật"
+      },
+      {
+        "label": "D",
+        "text": "Tuân thủ pháp luật"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 67,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 31: Trong các hình thức thực hiện pháp luật sau đây, hình thức nào là thi hành pháp luật?",
+    "options": [
+      {
+        "label": "A",
+        "text": "C cùng D đi đăng ký kết hôn tại cơ quan có thẩm quyền"
+      },
+      {
+        "label": "B",
+        "text": "E đóng thuế đầy đủ cho nhà nước"
+      },
+      {
+        "label": "C",
+        "text": "Cảnh sát giao thông phạt H vì vượt đèn đỏ"
+      },
+      {
+        "label": "D",
+        "text": "Các bạn rủ F đi đua xe nhưng F từ chối và không đi"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 68,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 32: Trong các hành vi trái pháp luật dưới đây, hành vi nào ở dạng không hành động?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tất cả đều đúng"
+      },
+      {
+        "label": "B",
+        "text": "F không đóng thuế theo nghĩa vụ"
+      },
+      {
+        "label": "C",
+        "text": "C lái xe tông trúng H"
+      },
+      {
+        "label": "D",
+        "text": "D buôn bán lấn chiếm vỉa hè"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 69,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 33: Bài tập tình huống: A, 45 tuổi cùng B, 42 tuổi là hàng xóm. Chiều ngày chủ nhật, A mời B sang nhà A nhậu từ 14h. Do xảy ra cự cãi, A đã vớ lấy chai bia gần đó đập vào đầu B, sau đó lấy mảnh vỡ chai ghim vào cổ B khiến B tử vong. Hãy xác định lỗi của A trong tình huống trên.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lỗi vô ý do quá tự tin"
+      },
+      {
+        "label": "B",
+        "text": "Lỗi vô ý do cẩu thả"
+      },
+      {
+        "label": "C",
+        "text": "Lỗi cố ý gián tiếp"
+      },
+      {
+        "label": "D",
+        "text": "Lỗi cố ý trực tiếp"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 70,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 34: Trên đoạn đường đã có biển báo cấm bán hàng rong nhưng A lại bày sạp bán hoa quả và bánh trái. Hành vi trên của A là loại vi phạm pháp luật nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Vi phạm pháp luật hình sự"
+      },
+      {
+        "label": "B",
+        "text": "Vi phạm kỷ luật"
+      },
+      {
+        "label": "C",
+        "text": "Vi phạm pháp luật hành chính"
+      },
+      {
+        "label": "D",
+        "text": "Vi phạm pháp luật dân sự"
+      }
+    ],
+    "correct": "C",
+    "note": null
+  },
+  {
+    "id": 71,
+    "bai": "Bài 4: Vi phạm pháp luật và Trách nhiệm pháp lý",
+    "question": "Câu 35: Hình thức nào của thực hiện pháp luật mà chủ thể thực hiện chỉ có thể là cơ quan nhà nước?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Áp dụng pháp luật"
+      },
+      {
+        "label": "B",
+        "text": "Sử dụng pháp luật"
+      },
+      {
+        "label": "C",
+        "text": "Tuân thủ pháp luật"
+      },
+      {
+        "label": "D",
+        "text": "Thi hành pháp luật"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 72,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 1: Đối tượng nào sau đây thuộc diện được hưởng thừa kế không phụ thuộc vào di chúc?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tất cả đều sai"
+      },
+      {
+        "label": "B",
+        "text": "Con chưa thành niên; cha, mẹ, vợ hoặc chồng; con đã thành niên không có khả năng lao động"
+      },
+      {
+        "label": "C",
+        "text": "Con chưa thành niên, cha, mẹ"
+      },
+      {
+        "label": "D",
+        "text": "Con chưa thành niên, cha, mẹ, vợ, chồng"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 73,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 2: Những người không biết chữ khi lập di chúc phải",
+    "options": [
+      {
+        "label": "A",
+        "text": "Phải được người làm chứng lập thành văn bản"
+      },
+      {
+        "label": "B",
+        "text": "Chỉ cần di chúc miệng"
+      },
+      {
+        "label": "C",
+        "text": "Tất cả đều sai."
+      },
+      {
+        "label": "D",
+        "text": "Phải được người làm chứng lập thành văn bản có công chứng hoặc chứng thực"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 74,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 3: Phân chia thừa kế theo pháp luật khi",
+    "options": [
+      {
+        "label": "A",
+        "text": "Người thừa kế chết trước hoặc chết chung thời điểm với người để lại thừa kế"
+      },
+      {
+        "label": "B",
+        "text": "Phần tài sản không định đoạt theo di chúc"
+      },
+      {
+        "label": "C",
+        "text": "cả đều đúng"
+      },
+      {
+        "label": "D",
+        "text": "Người thừa kế theo di chúc từ chối nhận di sản."
+      }
+    ],
+    "correct": "C",
+    "note": null
+  },
+  {
+    "id": 75,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 4: A và B kết hôn năm 2018. Tài sản nào sau đây là tài sản chung của vợ và chồng",
+    "options": [
+      {
+        "label": "A",
+        "text": "Căn nhà B được cha mẹ B tặng cho riêng năm 2019"
+      },
+      {
+        "label": "B",
+        "text": "Quyền sử dụng đất A nhận chuyển nhượng năm 2017"
+      },
+      {
+        "label": "C",
+        "text": "Số tiền 1 tỷ đồng B được thừa kế riêng từ ông ngoại của B theo di chúc"
+      },
+      {
+        "label": "D",
+        "text": "Lương tháng 10.2019 của A."
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 76,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 5: Chế độ tài sản của vợ chồng bao gồm",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cả (a) và (b) đều sai."
+      },
+      {
+        "label": "B",
+        "text": "Cả (a) và (b) đều đúng"
+      },
+      {
+        "label": "C",
+        "text": "Chế độ tài sản theo luật định hoặc theo thỏa thuận"
+      },
+      {
+        "label": "D",
+        "text": "Chế độ tài sản chung hoặc tài sản riêng"
+      }
+    ],
+    "correct": "C",
+    "note": null
+  },
+  {
+    "id": 77,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 6: Chồng có thể yêu cầu ly hôn trong trường hợp:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Vợ đang có thai"
+      },
+      {
+        "label": "B",
+        "text": "Vợ đang nuôi con dưới 12 tháng tuổi"
+      },
+      {
+        "label": "C",
+        "text": "Tất cả đều sai"
+      },
+      {
+        "label": "D",
+        "text": "Vợ sinh con"
+      }
+    ],
+    "correct": "C",
+    "note": null
+  },
+  {
+    "id": 78,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 7: Con được sinh ra trong thời hạn ..............ngày kể từ thời điểm chấm dứt hôn nhân được coi là con do người vợ có thai trong thời kỳ hôn nhân",
+    "options": [
+      {
+        "label": "A",
+        "text": "200"
+      },
+      {
+        "label": "B",
+        "text": "100"
+      },
+      {
+        "label": "C",
+        "text": "300"
+      },
+      {
+        "label": "D",
+        "text": "400"
+      }
+    ],
+    "correct": "C",
+    "note": null
+  },
+  {
+    "id": 79,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 8: Nhà nước không.................hôn nhân giữa những người cùng giới tính",
+    "options": [
+      {
+        "label": "A",
+        "text": "Công nhận"
+      },
+      {
+        "label": "B",
+        "text": "Tất cả đều đúng."
+      },
+      {
+        "label": "C",
+        "text": "Thừa nhận"
+      },
+      {
+        "label": "D",
+        "text": "Xác nhận"
+      }
+    ],
+    "correct": "C",
+    "note": null
+  },
+  {
+    "id": 80,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 9: Những trường hợp nào sau đây bị cấm kết hôn",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bị mất năng lực hành vi dân sự"
+      },
+      {
+        "label": "B",
+        "text": "Đã từng chung sống với người khác như vợ chồng nhưng chưa đăng ký kết hôn"
+      },
+      {
+        "label": "C",
+        "text": "Chưa đủ tuổi"
+      },
+      {
+        "label": "D",
+        "text": "Cả a và c đều đúng"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 81,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 10: Tuổi kết hôn theo quy định của pháp luật là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Từ đủ 20 tuổi đối với nam, từ 18 tuổi đối với nữ"
+      },
+      {
+        "label": "B",
+        "text": "Từ 20 tuổi đối với nam, từ 18 tuổi đối với nữ"
+      },
+      {
+        "label": "C",
+        "text": "Từ đủ 20 tuổi đối với nam, từ đủ 18 tuổi đối với nữ"
+      },
+      {
+        "label": "D",
+        "text": "Tất cả đều đúng"
+      }
+    ],
+    "correct": "C",
+    "note": null
+  },
+  {
+    "id": 82,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 11: Hình thức xử phạt vi phạm hành chính nào không có trong Luật Xử lý Vi phạm hành chính",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cải tạo không giam giữ"
+      },
+      {
+        "label": "B",
+        "text": "Phạt tiền"
+      },
+      {
+        "label": "C",
+        "text": "Cảnh cáo"
+      },
+      {
+        "label": "D",
+        "text": "Trục xuất"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 83,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 12: A tốt nghiệp trường cao đẳng nghề X, ký hợp đồng thử việc với công ty P.H. Trong trường hợp này, thời gian thử việc tối đa của A là",
+    "options": [
+      {
+        "label": "A",
+        "text": "30 ngày"
+      },
+      {
+        "label": "B",
+        "text": "60 ngày"
+      },
+      {
+        "label": "C",
+        "text": "6 ngày"
+      },
+      {
+        "label": "D",
+        "text": "45 ngày"
+      }
+    ],
+    "correct": "B",
+    "note": null
+  },
+  {
+    "id": 84,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 13: Các hình thức hợp đồng lao động là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hình thức hợp đồng lao động bằng lời nói"
+      },
+      {
+        "label": "B",
+        "text": "Hình thức hợp đồng lao động bằng văn bản."
+      },
+      {
+        "label": "C",
+        "text": "Cả (a) và (b) đều đúng."
+      },
+      {
+        "label": "D",
+        "text": "Hình thức hợp đồng lao động bằng hành vi"
+      }
+    ],
+    "correct": "C",
+    "note": null
+  },
+  {
+    "id": 85,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 14: Cơ quan nào có thẩm quyền tuyên bố hợp đồng lao động vô hiệu?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ủy ban nhân dân cấp tỉnh"
+      },
+      {
+        "label": "B",
+        "text": "Tất cả đều sai"
+      },
+      {
+        "label": "C",
+        "text": "Tòa án nhân dân"
+      },
+      {
+        "label": "D",
+        "text": "Thanh tra lao động."
+      }
+    ],
+    "correct": "C",
+    "note": null
+  },
+  {
+    "id": 86,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 15: Hợp đồng lao động gồm những nội dung gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chế độ nâng bậc lương, bảo hiểm xã hội và BHYT."
+      },
+      {
+        "label": "B",
+        "text": "Thời giờ làm việc, thời giờ nghỉ ngơi."
+      },
+      {
+        "label": "C",
+        "text": "Tất cả đều đúng"
+      },
+      {
+        "label": "D",
+        "text": "Công việc và địa điểm làm việc; Thời hạn Hợp đồng lao động"
+      }
+    ],
+    "correct": "C",
+    "note": null
+  },
+  {
+    "id": 87,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 16: Hợp đồng lao động không xác định thời hạn là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Không xác định được thời điểm kết thúc"
+      },
+      {
+        "label": "B",
+        "text": "Có thời hạn trên 36 tháng"
+      },
+      {
+        "label": "C",
+        "text": "Tất cả đều đúng"
+      },
+      {
+        "label": "D",
+        "text": "Có thời gian từ 12 tháng đến 36 tháng"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 88,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 17: Hợp đồng nào dưới đây có thể giao kết bằng lời nói?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đối với công việc tạm thời có thời hạn dưới 09 tháng."
+      },
+      {
+        "label": "B",
+        "text": "Đối với công việc tạm thời có thời hạn dưới 12 tháng."
+      },
+      {
+        "label": "C",
+        "text": "Đối với công việc tạm thời có thời hạn từ 03 tháng đến dưới 6 tháng"
+      },
+      {
+        "label": "D",
+        "text": "Đối với công việc tạm thời có thời hạn dưới 01 tháng trừ trường hợp luật có quy định khác"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 89,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 18: Người lao động làm thêm vào ngày nghỉ hàng tuần thì được trả lương ít nhất bằng bao nhiêu so với mức lương thông thường",
+    "options": [
+      {
+        "label": "A",
+        "text": "200%"
+      },
+      {
+        "label": "B",
+        "text": "300%"
+      },
+      {
+        "label": "C",
+        "text": "150%"
+      },
+      {
+        "label": "D",
+        "text": "180%"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  },
+  {
+    "id": 90,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 19: Người lao động làm việc trong khoảng thời gian nào sau đây thì được coi là làm việc vào ban đêm?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Từ 23 giờ đến 06 giờ sáng ngày hôm sau"
+      },
+      {
+        "label": "B",
+        "text": "Từ 22 giờ đến 06 giờ, từ Đà Nẵng trở vào các tỉnh phía Nam."
+      },
+      {
+        "label": "C",
+        "text": "Từ 21 giờ đến 05 giờ, từ Thừa Thiên- Huế trở ra các tỉnh phía Bắc"
+      },
+      {
+        "label": "D",
+        "text": "Từ 22 giờ đến 06 giờ sáng ngày hôm sau"
+      }
+    ],
+    "correct": "D",
+    "note": null
+  },
+  {
+    "id": 91,
+    "bai": "Bài 5: Pháp luật Lao động, Hôn nhân gia đình, Dân sự",
+    "question": "Câu 20: Thời gian thử việc căn cứ vào tính chất và mức độ phức tạp của công việc người sử dụng lao động được thử việc bao nhiêu lần?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chỉ được thử việc 01 lần."
+      },
+      {
+        "label": "B",
+        "text": "Chỉ được thử việc không quá 02 lần"
+      },
+      {
+        "label": "C",
+        "text": "Tùy theo thỏa thuận giữa người lao động và người sử dụng lao động"
+      },
+      {
+        "label": "D",
+        "text": "Chỉ được thử việc không quá 03 lần"
+      }
+    ],
+    "correct": "A",
+    "note": null
+  }
+]

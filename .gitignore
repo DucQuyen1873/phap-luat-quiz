@@ -1,0 +1,8 @@
+# Ignore docx parser temp files
+questions_raw.json
+doc_content.txt
+parse_log.txt
+check_log.txt
+build_log.txt
+*.py
+__pycache__/
